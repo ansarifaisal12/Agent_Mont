@@ -1,10 +1,11 @@
 # Agent Mont
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Agent Mont Logo" width="150"/>
+  <img src="https://github.com/ansarifaisal12/Agent_Mont/raw/main/assets/logo.jpeg" alt="Agent Mont Logo" width="150"/>
   <h3>Advanced Monitoring for AI Agents</h3>
   <p>Comprehensive metrics, insights, and visualization for Phidata and Crew AI applications</p>
-  
+</div>
+
   ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
   ![License](https://img.shields.io/badge/license-MIT-green.svg)
   ![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)
