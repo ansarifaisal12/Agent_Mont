@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/ansarifaisal12/Agent_Mont/raw/main/assets/logo.jpeg" alt="Agent Mont Logo" width="150"/>
   <h3>Advanced Monitoring for AI Agents</h3>
-  <p>Comprehensive metrics, insights, and visualization for Phidata and Crew AI applications</p>
+  <p>Comprehensive metrics, insights, and visualization for Agno and Crew AI applications</p>
 </div>
 
   ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -15,7 +15,7 @@
 
 ## 📊 Overview
 
-**Agent Mont** is an advanced AgentOps monitoring library designed specifically for Phidata and Crew AI applications. It provides real-time insights into your AI agents' performance, resource utilization, and environmental impact.
+**Agent Mont** is an advanced AgentOps monitoring library designed specifically for Agno and Crew AI applications. It provides real-time insights into your AI agents' performance, resource utilization, and environmental impact.
 
 ## ✨ Key Features
 
