@@ -1,7 +1,4 @@
 class CostCalculator:
-    # A scaling constant to make cost calculations manageable.
-    COST_PER_TOKEN = 1_000_000
-
     # Pricing and speed details for various models.
     MODELS_PRICING = {
         "deepseek-r1-distill-llama-70b": {"input_cost": 0.00000075, "output_cost": 0.00000099, "speed": 275},
@@ -60,6 +57,6 @@ class CostCalculator:
     def calculate_cost(self, input_tokens: int, output_tokens: int) -> float:
         input_rate = self.pricing["input_cost"]
         output_rate = self.pricing["output_cost"]
-        input_cost = input_tokens * (input_rate / self.COST_PER_TOKEN)
-        output_cost = output_tokens * (output_rate / self.COST_PER_TOKEN)
+        input_cost = input_tokens * (input_rate)
+        output_cost = output_tokens * (output_rate)
         return input_cost + output_cost
